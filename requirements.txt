@@ -1,0 +1,7 @@
+google-play-scraper
+pandas
+nltk
+Sastrawi
+requests
+scikit-learn
+joblib
